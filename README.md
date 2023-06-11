@@ -46,6 +46,7 @@ if name == "main":
 ```
 gunicorn app:app & python3 <YOUR-APP-RUN-COMMAND>
 ```
+Change the run command of the `Profile` file to `<your-app-run-command>`
 
 ## Here are App or Application is ready to be deployed on any web based platform.
 
