@@ -24,7 +24,7 @@ Because of this many deployment on these platforms fails.
 ```
 Flask==2.2.2
 gunicorn==20.1.0
-aiohttp==3.8.1
+aiohttp==3.8.4
 ```
 Add these dependencies in your `requirements.txt` file
 
