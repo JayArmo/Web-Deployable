@@ -44,7 +44,7 @@ if name == "main":
 
 3) Create a new File named as `run cmd.txt`
 ```
-gunicorn app:app & python3 <YOUR-APP-RUN-COMMAND>
+gunicorn app:app & <YOUR-APP-RUN-COMMAND>
 ```
 Change the run command of the `Profile` file to `<your-app-run-command>`
 
