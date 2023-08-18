@@ -51,7 +51,7 @@ Change the run command of the `Profile` file to `<your-app-run-command>`
 ## Here are App or Application is ready to be deployed on any web based platform.
 
 ## 😃 Connect me
-[🧑‍💻 Owner](https://telegram.me/JayArmo)
+[🧑‍💻 Telegram](https://telegram.me/JayArmo)
 
 [📢 Update Channel](https://telegram.me/Jay_Bots)
 
