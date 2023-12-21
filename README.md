@@ -22,9 +22,9 @@ Because of this many deployment on these platforms fails.
 ## Steps
 1) Edit your `requirements.txt` file
 ```
-Flask==2.2.2
-gunicorn==20.1.0
-aiohttp==3.8.4
+Flask
+gunicorn
+aiohttp
 ```
 Add these dependencies in your `requirements.txt` file
 
@@ -46,7 +46,7 @@ if name == "main":
 ```
 gunicorn app:app & <YOUR-APP-RUN-COMMAND>
 ```
-Change the run command of the `Profile` file to `<your-app-run-command>`
+Change the run command of the `run cmd.txt` file to `<your-app-run-command>`
 
 ## Here are App or Application is ready to be deployed on any web based platform.
 
